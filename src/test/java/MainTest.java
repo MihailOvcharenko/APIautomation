@@ -12,5 +12,5 @@ public class MainTest {
                 then().
                 statusCode(200);
     }
-
+ //TODO Покрыть RegresIN тестами
 }
